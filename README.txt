@@ -28,11 +28,17 @@ pip install streamlit pandas matplotlib requests
 ```
 
 ### 2. 运行项目
-
+方法1：
 ```bash
-streamlit run app.py
+streamlit run stock_app.py
 ```
 方法2：双击“启动.bat”启动程序，关闭时直接关闭网页和cmd（黑框）
+
+##项目截图
+
+![demo1](images/demo1.png)
+![demo2](images/demo2.png)
+![demo3](images/demo3.png)
 
 ## 项目结构
 
